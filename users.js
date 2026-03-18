@@ -3,7 +3,7 @@
 // Tu peux ajouter/modifier ici les comptes
 
 const users = [
-  { username: "admin", password: "white.2674" },
+  { username: "admin", password: "stark59" },
   { username: "Pearl's", password: "482391" },
   { username: "Hen House", password: "947203" },
   { username: "Custom Caffe", password: "628340" },
